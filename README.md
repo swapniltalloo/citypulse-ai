@@ -15,7 +15,7 @@
 
 ## 🌟 Resume & Portfolio Highlights
 
-- **Event-Driven Agent Architecture**: Engineered with LangChain & LangGraph, utilizing tool-binding protocols and dynamic multi-step reasoning loops.
+- **Event-Driven Agent Architecture**: Engineered with LangChain , utilizing tool-binding protocols and dynamic multi-step reasoning loops.
 - **Real-Time SSE Streaming Telemetry**: Streams token chunks, intermediate agent thoughts, and tool execution lifecycles over Server-Sent Events (`/api/chat/stream`).
 - **Interactive Human-In-The-Loop (HITL) Guardrails**: Non-blocking asynchronous approval flow (`/api/chat/approve`) allowing human operators to authorize or deny tool actions in real time directly from the chat UI.
 - **Geospatial Intelligence Tool Suite**:
